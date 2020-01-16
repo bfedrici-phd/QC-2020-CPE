@@ -1,1 +1,1 @@
-# Quantum-Computing-for-CS-Students
+# Quantum Computing for CS students
