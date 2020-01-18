@@ -1,1 +1,1 @@
-# Quantum Computing for CS students
+# A hands-on coding approach to quantum computing
