@@ -1,6 +1,17 @@
-# Hello Quantum World
+# Hello Quantum World !
 
 This course is an introduction to modern quantum programming for students who want to familiarize with quantum computing technologies and learn about a new paradigm of computation.
+
+
+### Course content
+
+We will review:
+- Quantum mechanics basics
+- Circuit model of quantum computation
+- Quantum programming languages
+- Quantum algorithms for long-term applications
+- Quantum algorithms for mid-term applications
+- Benchmarking QPUs
 
 
 ### Prerequisites
