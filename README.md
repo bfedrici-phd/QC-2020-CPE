@@ -1,6 +1,8 @@
-<p align="center"> Hello Quantum World ! </p>
+ <h1>Hello Quantum World !</h1>
 
-<center><h1> What about A Header?</h1></center>
+![HQW](http://octodex.github.com/images/minion.png)
+
+<p align="center"><h1>What about A Header?</h1></p>
 
 
 This course is an introduction to modern quantum programming for students who want to familiarize with quantum computing technologies and learn about a new paradigm of computation.
