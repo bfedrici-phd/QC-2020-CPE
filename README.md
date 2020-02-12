@@ -1,10 +1,5 @@
-<p>
- <center>
-  <h1>
- Hello Quantum World !
-  </h1>
- </center>
-</p>
+<p style="text-align:center">This line will be centered.<br>
+And so will this line.</p>
 
 ![HQW](http://octodex.github.com/images/minion.png)
 
