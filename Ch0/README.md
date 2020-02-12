@@ -11,3 +11,5 @@
 - Online support
 
 ### Ressources
+
+[PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch0/Ch0-Course-Overview.pdf)
