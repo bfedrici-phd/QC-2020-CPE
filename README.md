@@ -1,6 +1,10 @@
-# Hello Quantum World !
+<p align="center"> Hello Quantum World ! </p>
+
+<center><h1> What about A Header?</h1></center>
+
 
 This course is an introduction to modern quantum programming for students who want to familiarize with quantum computing technologies and learn about a new paradigm of computation.
+
 
 
 ### Course content
