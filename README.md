@@ -1,10 +1,4 @@
-<p style="text-align:center">This line will be centered.<br>
-And so will this line.</p>
-
-![HQW](http://octodex.github.com/images/minion.png)
-
-<center><h1>What about A Header?</h1></center>
-
+![HQW](https://i.ibb.co/cvGNPgS/Screenshot-at-2020-02-12-12-13-02.png)
 
 This course is an introduction to modern quantum programming for students who want to familiarize with quantum computing technologies and learn about a new paradigm of computation.
 
