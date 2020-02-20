@@ -1,6 +1,6 @@
 # Ch 2 - Quantum Mechanics for Quantum Computing
 
-- Dirac notations for linear algebra
+- Linear algebra and Dirac notations
 - The postulates of quantum mechanics
 - Bits, p-bits, and q-bits
 
