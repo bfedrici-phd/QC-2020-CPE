@@ -1,6 +1,6 @@
 # Ch 2 - Quantum Mechanics for Quantum Computing
 
-- Dirac notations and linear algebra
+- Dirac notations for linear algebra
 - The postulates of quantum mechanics
 
 ### Ressources
