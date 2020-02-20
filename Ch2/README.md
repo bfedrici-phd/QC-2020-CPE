@@ -2,6 +2,7 @@
 
 - Dirac notations for linear algebra
 - The postulates of quantum mechanics
+- Bits, p-bits, and q-bits
 
 ### Ressources
 
