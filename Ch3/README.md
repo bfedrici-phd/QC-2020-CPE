@@ -6,10 +6,11 @@
 - Multi-qubit operations
 - Universilaty of simple gate sets
 - Quantum circuit diagrams
+- Quantum arithmetic and logic
 
 ### Ressources
 
-[PDF slides]()
+[PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch3/Ch3-Quantum-Instruction-Sets-and-Quantum-Circuits.pdf)
 
 ### References
 
