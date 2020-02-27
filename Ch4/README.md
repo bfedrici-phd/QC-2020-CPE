@@ -1,0 +1,21 @@
+# Ch 4 - Programming a Quantum Algorithm with Qiskit
+
+- Installation
+- Quantum circuit
+- Quantum registers
+- Statevector simulator
+- Classical registers and the qasm simulator
+- Simplified notations
+- Creating custom gates
+- Accessing on real quantum hardware
+
+### Ressources
+
+[PDF slides]()
+[Jupyter notebook - Source: Learn Quantum Computation using Qiskit]()
+
+### References
+
+- [Open source software in quantum computing](https://arxiv.org/pdf/1812.09167.pdf)
+- [How to install qiskit - Youtube video](https://www.youtube.com/watch?v=M4EkW4VwhcI&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=3&t=0s)
+- [Open Quantum Assembly Language](https://arxiv.org/pdf/1707.03429.pdf)
