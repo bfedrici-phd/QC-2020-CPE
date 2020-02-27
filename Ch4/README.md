@@ -11,8 +11,8 @@
 
 ### Ressources
 
-[PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch4/Ch4-Programming-a-Quantum-Algorithm-with-Qiskit.pdf)
-[Jupyter notebook - Source: 'Learn Quantum Computation using Qiskit'](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch4/Basic_Qiskit_Syntax.ipynb)
+- [PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch4/Ch4-Programming-a-Quantum-Algorithm-with-Qiskit.pdf)
+- [Jupyter notebook - Source: 'Learn Quantum Computation using Qiskit'](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch4/Basic_Qiskit_Syntax.ipynb)
 
 ### References
 
