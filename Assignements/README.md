@@ -8,4 +8,4 @@ Final placement in the class will be determined by the following formula: 0.15 H
 
 ### Assignements
 
-- Homework #1 (due date: 13/03/20): (https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Assignements/QC_2020_CPE_Assignement_1.pdf)
+- [Homework #1 (due date: 13/03/20)](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Assignements/QC_2020_CPE_Assignement_1.pdf)
