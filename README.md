@@ -43,6 +43,10 @@ Final placement in the class will be determined by the following formula: 0.15 H
 - P is the weighted average grade on the three programming projects.
 - FP is the score on your final project.
 
+### Assignements
+
+- Homework #1 (due date: 13/03/20): 
+
 ### Online support
 
 - Github: https://github.com/bfedrici-phd/QC-2020-CPE
