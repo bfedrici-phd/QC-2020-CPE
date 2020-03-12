@@ -1,5 +1,6 @@
 # Ch 5 - Noise in quantum computation
 
+- Coherent noise
 - Density operator
 - Quantum operations
 - Bit flip and phase flip channels
