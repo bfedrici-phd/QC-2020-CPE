@@ -1,15 +1,12 @@
 # Ch 5 - Noise in quantum computation
 
 - Coherent noise
-- Density operator
-- Quantum operations
-- Bit flip and phase flip channels
-- Depolarizing channel
-- Amplitude damping
+- Density operator formalism
+- Incoherent noise 
 
 ### Ressources
 
-- [PDF slides]()
+- [PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch5/Ch5-Noise-in-Quantum-Computation.pdf)
 
 ### References
 
