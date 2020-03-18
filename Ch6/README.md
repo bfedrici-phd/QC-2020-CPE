@@ -1,4 +1,4 @@
-# Ch 5 - Benchmarking Quantum Computers
+# Ch 6 - Benchmarking Quantum Computers
 
 - Qubit benchmarking
 - Program benchmarks
