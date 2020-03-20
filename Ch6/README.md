@@ -1,8 +1,10 @@
 # Ch 6 - Benchmarking Quantum Computers
 
-- Qubit benchmarking
-- Program benchmarks
-- Quantifying capabilities
+- Benchmarking
+- Fidelity
+- Quantum state tomography
+- T1 and T2 coherence
+- Randomized benchmarking
 
 ### Ressources
 
