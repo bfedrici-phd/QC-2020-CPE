@@ -6,7 +6,7 @@
 
 ### Ressources
 
-- [PDF slides]()
+- [PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch6/Ch6-Benchmarking-Quantum-Computers.pdf)
 
 ### References
 
