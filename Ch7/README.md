@@ -4,6 +4,6 @@
 ### Ressources
 
 - [PDF slides]()
-- [Jupyter notebook - Source: 'Learn Quantum Computation using Qiskit']()
+- [Jupyter notebook - Simulating Molecules with VQE - Source: 'Learn Quantum Computation using Qiskit']()
 
 ### References
