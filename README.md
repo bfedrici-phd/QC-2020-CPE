@@ -30,7 +30,8 @@ One lecture per week. 8:00 – 12:00, Friday:
 
 ### Textbook and readings
 
-Quantum Computation and Quantum Information: 10th Anniversary Edition by Michael A. Nielsen and Isaac L. Chuang
+- [Quantum Computation and Quantum Information: 10th Anniversary Edition by Michael A. Nielsen and Isaac L. Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
+- [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 
 Complementary readings will be posted online with the syllabus for each lecture. These are critical.
 
