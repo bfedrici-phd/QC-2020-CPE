@@ -2,7 +2,7 @@
 - Hybrid quantum/classical computing
 - The variational principle
 - The variational quantum eigensolver
-- The variational quantum eigensolver for quantum chemistry
+- Applications in quantum chemistry
 
 ### Ressources
 
