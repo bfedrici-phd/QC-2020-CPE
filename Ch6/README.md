@@ -22,4 +22,3 @@
 - [Qiskit Ignis - Randomized benchmarking](https://qiskit.org/documentation/apidoc_legacy/ignis/verification/randomized_benchmarking/randomized_benchmarking.html) 
 - [Qiskit Ignis - Quantum volume](https://qiskit.org/documentation/apidoc_legacy/ignis/verification/quantum_volume/quantum_volume.html)
 - [Scott Aaronson - Turn down the quantum volume](https://www.scottaaronson.com/blog/?p=4649)
-- [John Preskill - Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
