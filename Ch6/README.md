@@ -9,6 +9,9 @@
 ### Ressources
 
 - [PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch6/Ch6-Benchmarking-Quantum-Computers.pdf)
+- [Jupyter notebook - Rendomized Benchmarking - Source: 'Learn Quantum Computation using Qiskit'](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch6/randomized-benchmarking.ipynb)
+- [Jupyter notebook - Measuring Quantum Volume - Source: 'Learn Quantum Computation using Qiskit'](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch6/measuring-quantum-volume.ipynb)
+- [Jupyter notebook - Quantum State Tomography - Source: IBM](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch6/6a_state_tomography.ipynb)
 
 ### References
 
