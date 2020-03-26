@@ -1,5 +1,7 @@
 # Ch 7 - The Variational Quantum Eigensolver
-
+- Hybrid quantum/classical computing
+- The variational principle
+- The variational quantum eigensolver
 
 ### Ressources
 
