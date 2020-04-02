@@ -6,7 +6,7 @@
 ### Ressources
 
 - [PDF slides]()
-- [Jupyter notebook - Solving combinatorial optimization problems using QAOA - Source: 'Learn Quantum Computation using Qiskit']()
+- [Jupyter notebook - Solving combinatorial optimization problems using QAOA - Source: 'Learn Quantum Computation using Qiskit'](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch8/qaoa.ipynb)
 
 ### References
 - [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028)
