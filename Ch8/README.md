@@ -1,6 +1,5 @@
 # Ch 8 - The Quantum Approximate Optimization Algorithm
 - Combinatorial optimization problems
-- The max-cut problem
 - The Quantum Approximate Optimization Algorithm
 
 ### Ressources
