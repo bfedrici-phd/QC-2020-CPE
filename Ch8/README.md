@@ -5,7 +5,7 @@
 
 ### Ressources
 
-- [PDF slides]()
+- [PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch8/Ch8-The-Quantum-Approximate-Optimization-Algorithm.pdf)
 - [Jupyter notebook - Solving combinatorial optimization problems using QAOA - Source: 'Learn Quantum Computation using Qiskit'](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch8/qaoa.ipynb)
 
 ### References
