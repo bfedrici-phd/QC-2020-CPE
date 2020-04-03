@@ -7,6 +7,8 @@
 
 - [PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch8/Ch8-The-Quantum-Approximate-Optimization-Algorithm.pdf)
 - [Jupyter notebook - Solving combinatorial optimization problems using QAOA - Source: 'Learn Quantum Computation using Qiskit'](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch8/qaoa.ipynb)
+- [Jupyter notebook - Qiskit Aqua: Experimenting with Max-Cut problem and Traveling Salesman problem with variational quantum eigensolver - Source: IBM](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch8/max_cut_and_tsp.ipynb)
+- [Jupyter notebook -  Qiskit Aqua: Vehicle Routing - Source: IBM](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch8/vehicle_routing.ipynb)
 
 ### References
 - [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028)
