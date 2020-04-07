@@ -1,7 +1,7 @@
 ### Assignements
 
 - [Homework #1 (due date: 13/03/20)](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Assignements/QC_2020_CPE_Assignement_1.pdf)
-- [Final Project Guideline (due date: 15/04/20)]()
+- [Final Project Guideline (due date: 15/04/20)](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Assignements/Final_Project/QC_2020_CPE_Final_Project_Guideline.pdf)
 
 ### Grading
 
