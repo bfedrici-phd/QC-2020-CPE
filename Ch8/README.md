@@ -1,6 +1,6 @@
 # Ch 8 - The Quantum Approximate Optimization Algorithm
 - Combinatorial optimization problems
-- The Quantum Approximate Optimization Algorithm
+- The quantum approximate optimization algorithm
 
 ### Ressources
 
