@@ -1,9 +1,8 @@
 # Ch 9 - Amplitude Amplification
 - Converting between phase and magnitude
 - The amplitude amplification iteration
-- More iterations
 - Multiple flipped entries
-- Speeding-up conventional algorithms with amplitude amplification
+- Quantum search algorithms
 
 ### Ressources
 
