@@ -4,6 +4,7 @@
 - QFT of non-trivial signals 
 - QFT speed-up
 - The inverse QFT
+- QFT operation by operation
 
 ### Ressources
 
