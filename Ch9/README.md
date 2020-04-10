@@ -6,7 +6,7 @@
 
 ### Ressources
 
-- [PDF slides]()
+- [PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch9/Ch9-Amplitude-Amplification.pdf)
 - [Jupyter notebook - Grover's Algorithm - Source: 'Learn Quantum Computation using Qiskit'](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch9/grover.ipynb)
 
 ### References
