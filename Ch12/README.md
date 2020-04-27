@@ -1,4 +1,4 @@
-# Ch 11 - Bell's Theorem
+# Ch 12 - Bell's Theorem
 - EPR paradox
 - Hidden variable theories
 - CHSH inequality
