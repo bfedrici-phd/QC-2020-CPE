@@ -1,4 +1,4 @@
-![HQW](https://i.ibb.co/s68vcpz/Screenshot-at-2020-02-12-13-24-03.png)
+![HQW](https://i.ibb.co/3dqFdxR/Screenshot-at-2021-02-25-18-16-25.png)
 
 This course is an introduction to modern quantum programming for students who want to familiarize with quantum computing technologies and learn about a new paradigm of computation.
 
