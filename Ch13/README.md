@@ -5,7 +5,7 @@
 
 ### Ressources
 
-- [PDF slides]()
+- [PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch13/Ch13-Quantum-and%20Post-Quantum-Cryptography.pdf)
 
 ### References
 - [Nielsen and Chuang - Chapter 12.6](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
